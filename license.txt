@@ -5,3 +5,6 @@ git has a mutable index called stage
 1111111111111111111111111111111
 22222222222222222222222222222
 33333333333333333333333333
+-------------------------------------------------
+health is very importance 
+life is fragile
