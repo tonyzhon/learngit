@@ -1,3 +1,0 @@
-git is test github
-git is test repository
-hello world
